@@ -8,5 +8,5 @@
 
 
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: skytanhongsheng@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/sky-hong-sheng-tan/
 
