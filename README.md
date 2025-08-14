@@ -7,6 +7,5 @@
 🔹 Proficient in Ruby on Rails, JavaScript
 
 
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: https://www.linkedin.com/in/sky-hong-sheng-tan/
 
