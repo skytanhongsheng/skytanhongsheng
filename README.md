@@ -4,7 +4,7 @@
 
 🔹 Passionate about building scalable and efficient web applications
 
-🔹 Proficient in Ruby on Rails, JavaScript
+🔹 Proficient in HTML, CSS, JavaScript
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/sky-hong-sheng-tan/
